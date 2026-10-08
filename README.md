@@ -4,8 +4,6 @@ The system captures leads through a web form, checks whether the lead already ex
 
 
 
-# Lead Capture & CRM Automation
-
 ## Overview
 
 A local, end-to-end lead management automation built with **n8n, PostgreSQL, and Docker**.
